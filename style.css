@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&family=Poiret+One&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Playfair+Display:wght@800&family=Poiret+One&family=Poppins&display=swap");
+
+body {
+  background: rgba(7, 7, 7, 0.91);
+}
+
+h1 {
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-weight: 900;
+  font-family: "Mochiy Pop One", sans-serif;
+  color: #ffffff;
+}
+
+.texto p {
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+}
+
+.front {
+  color: #b7085c;
+}
+
+.ui {
+  color: #8b0097;
+}
